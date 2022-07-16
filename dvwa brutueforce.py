@@ -1,6 +1,6 @@
 
 with open('C:\\Users\\root\\Downloads\\pw.txt', 'r') as f:
-    #read는 파일의 내용을 읽어ㅓㅅ 문자열로가져오고 readlines는 한줄씩 리스트형태로가져옴
+    #read는 파일의 내용을 읽어서 문자열로가져오고 readlines는 한줄씩 리스트형태로가져옴
     pwline = f.readlines()
 
 
